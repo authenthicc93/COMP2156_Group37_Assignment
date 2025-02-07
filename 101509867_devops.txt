@@ -6,3 +6,5 @@ It topics the
 	
 	- Containerization with Docker, Automating deployments with Jenkins
 	Cloud, and CI/CD.
+	- Implementing monitoring systems and logging practices ensures real time
+	 tracking of application perfromance and identification of issues, while scaling and load balancing techniques.
