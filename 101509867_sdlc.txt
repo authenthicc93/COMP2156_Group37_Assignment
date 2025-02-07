@@ -1,5 +1,4 @@
 Continuous feedback: DevOps emphasizes continuous integration and delivery, ensuring that errors are caught early, reducing costs in 
 the long run.
 
-	-DevOps practices to promote scalability and flexibility particular in cloud environments by allowing the systems to evolve with minimal downtime.
-	-Understanding and applying DevOps principles within the SDLC is essential for any software developer or IT professional aiming to remain competitive in a fast-paced industry.
+	DevOps practices to promote scalability and flexibility particular in cloud environments by allowing the systems to evolve with minimal downtime.
