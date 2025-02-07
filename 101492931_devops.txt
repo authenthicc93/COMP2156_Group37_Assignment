@@ -1,1 +1,2 @@
 Devops is a part of Comp2156
+It is a 16 week course
