@@ -1,1 +1,1 @@
-It's good to learn DevOps!
+COMP 2156 course at George Brown College focuses on DevOps practices, tools, and methods, aiming to bridge the gap between development and operations teams.
