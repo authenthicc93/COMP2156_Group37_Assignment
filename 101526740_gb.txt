@@ -1,2 +1,5 @@
-Goerge Brown College is Located in Toronto, Canada, The author of this file is Hanif Patel, currently studying the program Computer Systems Technology (T147), This text is for the course Comp2156 DevOps Technology. George Brown College has 3 Campuses and the author of this file attends the Casa Loma Campus. 
 
+George Brown College (GBC) is a public college in Toronto, Canada, offering a wide range of diploma, certificate, and degree programs across business, technology, health sciences, hospitality, and the arts. 
+Known for its strong industry connections, hands-on learning, and emphasis on applied research, GBC provides students with real-world experience through co-op placements and field education. 
+The college has three main campuses—St. James, Casa Loma, and Waterfront—each specializing in different disciplines. With a diverse student body and a focus on career readiness, 
+George Brown College is a leading institution for practical, skills-based education in Canada.
