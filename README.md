@@ -2,7 +2,7 @@
 ## Group Members -
 ## **Leader:** Gideon Alancar (1023756) - [GitHub](https://github.com/authenthicc93)
 ## **Member 2:** Hanif Patel (101526740) - [GitHub](https://github.com/HHPtg) 
-## **Member 3:** Tharum Ragu(1027890) - [GitHub](https://github.com/johnsmith) 
+## **Member 3:** Tharum Ragu(101492931) - [GitHub](https://github.com/tharun1104-ragu)
 ## Project Description 
 This is a repository that contains the group assignment for the DevOps course 2156 for gorup 37
 focusing on Git Workflows, Branching stratergies and CI/CD integration. 
@@ -16,3 +16,6 @@ in `.github/workflows/ci.yml`.
 ## Branching Strategy 
 Each member has their own branch named `STUDENTID-Name`. All changes are 
 merged into the `main` branch via Pull Requests.
+Each Member Merged individually maintaining authenticity of files
+Any and all problems were fixed
+Pull Requests are managed by all group members.
