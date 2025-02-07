@@ -1,1 +1,4 @@
-Continuous feedback: DevOps emphasizes continuous integration and delivery, ensuring that errors are caught early, reducing costs in the long run.
+Continuous feedback: DevOps emphasizes continuous integration and delivery, ensuring that errors are caught early, reducing costs in 
+the long run.
+
+	DevOps practices to promote scalability and flexibility particular in cloud environments by allowing the systems to evolve with minimal downtime.
