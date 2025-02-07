@@ -1,0 +1,5 @@
+## DEVOPS COMP 2156  
+COMP 2156, titled "DevOps," is a course at George Brown College that focuses on the principles and practices of DevOps, 
+aiming to equip students with the skills necessary to integrate development and operations for efficient software 
+delivery. Taught by several Professors including Pritesh Patel.
+
