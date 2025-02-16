@@ -1,3 +1,4 @@
+HEAD
  COMP2156_Group1_Assignment 
 ## Group Members -
 ## **Leader:** Gideon Alancar (1023756) - [GitHub](https://github.com/authenthicc93)
@@ -15,4 +16,7 @@ The project utilizes GitHub Actions for continuous integration. The workflow is 
 in `.github/workflows/ci.yml`. 
 ## Branching Strategy 
 Each member has their own branch named `STUDENTID-Name`. All changes are 
-merged into the `main` branch via Pull Requests.
+
+
+
+
