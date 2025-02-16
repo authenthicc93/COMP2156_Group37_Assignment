@@ -1,9 +1,8 @@
-HEAD
- COMP2156_Group1_Assignment 
+COMP2156_Group37_Assignment 
 ## Group Members -
-## **Leader:** Gideon Alancar (1023756) - [GitHub](https://github.com/authenthicc93)
+## **Leader:** Gideon Alancar (101509867) - [GitHub](https://github.com/authenthicc93)
 ## **Member 2:** Hanif Patel (101526740) - [GitHub](https://github.com/HHPtg) 
-## **Member 3:** Tharum Ragu(1027890) - [GitHub](https://github.com/johnsmith) 
+## **Member 3:** Tharum Ragu(101492931) - [GitHub](https://github.com/tharun1104-ragu) 
 ## Project Description 
 This is a repository that contains the group assignment for the DevOps course 2156 for gorup 37
 focusing on Git Workflows, Branching stratergies and CI/CD integration. 
